@@ -1,6 +1,6 @@
-/*created by Kgtech 🕵
-contact dev1 237656520674 ♻️
-contact dev2 237650564445 ♻️
+/*created by ~𓆩꧁𝕊𝔼ℂ𝕂𒆜𝐋𝐈𝐆𝐇𝐓 𝐘𝐀𝐆𝐀𝐌𝐈꧂𓆪
+contact dev1 224664873993 ♻️
+contact dev2 224620505291 ♻️
 © Copy coder alert ⚠
 */
 
@@ -34,7 +34,7 @@ const Crypto = require('crypto')
 const path = require('path')
 const prefix = config.PREFIX
 
-const ownerNumber = ['237656520674']
+const ownerNumber = ['224664873993']
 
 //===================SESSION-AUTH============================
 if (!fs.existsSync(__dirname + '/auth_info_baileys/creds.json')) {
@@ -82,29 +82,29 @@ require("./plugins/" + plugin);
 }
 });
 console.log('PLUGINS FILES INSTALL SUCCESSFULLY ✅')
-console.log('KERM_MD-V4 CONNECTED TO WHATSAPP ENJOY ✅')
+console.log('𝐊𝐈𝐑𝐀-𝐁𝐎𝐓 CONNECTED TO WHATSAPP ENJOY ✅')
 
 let up = `*╭──────────────●●►*
-> *➺Kᴇʀᴍ_ᴍᴅ-ᴠ4 ᴄᴏɴɴᴇᴄᴛᴇᴅ sᴜᴄᴄᴇssғᴜʟʏ ᴛʏᴘᴇ .ᴍᴇɴᴜ ᴛᴏ ᴄᴏᴍᴍᴀɴᴅ ʟɪsᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴋɢ ᴛᴇᴄʜ✅*
+> *𝐊𝐈𝐑𝐀-𝐁𝐎𝐓 ᴄᴏɴɴᴇᴄᴛᴇᴅ sᴜᴄᴄᴇssғᴜʟʏ ᴛʏᴘᴇ .ᴍᴇɴᴜ ᴛᴏ ᴄᴏᴍᴍᴀɴᴅ ʟɪsᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ~𓆩꧁𝕊𝔼ℂ𝕂𒆜𝐋𝐈𝐆𝐇𝐓 𝐘𝐀𝐆𝐀𝐌𝐈꧂𓆪*
 
-> *❁ᴊᴏɪɴ ᴏᴜʀ ᴡʜᴀᴛsᴀᴘᴘ ᴄʜᴀɴɴᴇʟ ғᴏʀ ᴜᴘᴅᴀᴛᴇs Kᴇʀᴍ_ᴍᴅ-ᴠ4❁*
+> *❁ᴊᴏɪɴ ᴏᴜʀ ᴡʜᴀᴛsᴀᴘᴘ ᴄʜᴀɴɴᴇʟ ғᴏʀ ᴜᴘᴅᴀᴛᴇs 𝐊𝐈𝐑𝐀-𝐁𝐎𝐓 *
 
-*https://whatsapp.com/channel/0029Vafn6hc7DAX3fzsKtn45*
+*https://whatsapp.com/channel/0029VarzhaBId7nWHYUv4F07*
 
-> *❁ᴊᴏɪɴ ᴏᴜʀ ʏᴏᴜᴛᴜʙᴇ ᴄʜᴀɴɴᴇʟ ғᴏʀ ᴜᴘᴅᴀᴛᴇs Kᴇʀᴍ_ᴍᴅ-ᴠ4❁*
+> *Hacking Training Community*
 
-*https://youtube.com/@KermHackTools-s9s*
+*https://chat.whatsapp.com/HAfAv3NpNJgLdM9hY2f8nO*
 
-*╭⊱✫🐲 KERM_MD-V4 🐲✫⊱╮*
-*│✫➠ - 📂REPOSITORY NAME:* *KERM_MD-V4*
-*│✫➠ - 📃DESCRIPTION:* *THE WORLD BEST WHATSAPP BOT♻️*
-*│✫➠ - 🛡️OWNER:* *KG TECH🇨🇲*
-*│✫➠ - 🌐URL:* *https://github.com/Kgtech-cmr/KERM_MD-V4*
+*╭⊱✫𝐊𝐈𝐑𝐀-𝐁𝐎𝐓✫⊱╮*
+*│✫➠ - 📂REPOSITORY NAME:* *𝐊𝐈𝐑𝐀-𝐁𝐎𝐓*
+*│✫➠ - 📃DESCRIPTION:* *˚✎ ﹏ ł ₳₥ ₮ⱧɆ ₲ØĐ Ø₣ ₦Ɇ₩ ₩ØⱤⱠĐ ₳₦Đ ł ₳₥ ₭łⱤ₳ ✧˖°࿐*
+*│✫➠ - 🛡️OWNER:* *~𓆩꧁𝕊𝔼ℂ𝕂𒆜𝐋𝐈𝐆𝐇𝐓 𝐘𝐀𝐆𝐀𝐌𝐈꧂𓆪.·˚✎ ﹏ ł ₳₥ ₮ⱧɆ ₲ØĐ Ø₣ ₦Ɇ₩ ₩ØⱤⱠĐ ₳₦Đ ł ₳₥ ₭łⱤ₳ ✧˖°࿐*
+*│✫➠ - 🌐URL:* *https://github.com/SECKFAMILY/KIRA-BOT*
 
-*YOUR BOT ACTIVE NOW ENJOY♥️🪄*\n\n*PREFIX: ${prefix}*
+*Ready to satisfy you*\n\n*PREFIX: ${prefix}*
 
 *╰──────────────●●►*`;
-conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/osriwc.jpg` }, caption: up })
+conn.sendMessage(conn.user.id, { image: { url: `https://telegra.ph/file/a65b31d0822efe8163655.jpg` }, caption: up })
 
 }
 })
